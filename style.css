@@ -1928,7 +1928,7 @@ a:hover, a:focus, a:active, a:visited {
 
 .speaker .feature {
 	width: 31.333333%;
-	height: 320px; /* ************************* */
+	height: 370px; /* ************************* */
 	-webkit-transition: all 0.3s;
   	-moz-transition: all 0.3s;
   	transition: all 0.3s;
